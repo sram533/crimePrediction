@@ -1,0 +1,21 @@
+# Node / Next.js
+node_modules/
+client/node_modules/
+client/.next/
+client/.turbo/
+client/.vercel/
+
+# Python
+server/.venv/
+server/__pycache__/
+*.pyc
+
+# Logs
+*.log
+server/app.log
+server/debug.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
