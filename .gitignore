@@ -19,3 +19,5 @@ server/debug.log
 .DS_Store
 Thumbs.db
 .vscode/
+
+server/models/cities/seattle/ensemble_models.pkl
